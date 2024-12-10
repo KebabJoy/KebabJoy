@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KebabJoy
 - 👀 I’m interested in Competitive Programming, WEB-apps development with Ruby
-- 👨🏻‍💻 I’m working as a Ruby on Rails developer for the past 3 years. Also used to work as a Full-stack using React.JS.
+- 👨🏻‍💻 I've been working as a Ruby on Rails developer for the last 5 years. Also used to work as a Full-stack using React.JS.
 - 👨🏻‍💻 I also have experience in Golang for about a year.
 - 🌱 I used to learn and built many projects using Qt + C++, OpenCV + C++.
 - 🌱 I studied classic Machine Learning and data analysis.
